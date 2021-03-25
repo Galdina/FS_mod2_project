@@ -39,7 +39,7 @@ I found a strong correlation between grade and home price: the higher the grade 
 
 3. How the size of a home affect its sale price?
 
-![](img/download(2).png)
+![](img/zipcode.jpg)
 ## Conclusion
 
 If you're looking for a higher priced home in King County Washington you'll likely find one
